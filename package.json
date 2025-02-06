@@ -86,7 +86,7 @@
     "@coreui/icons": "^3.0.1",
     "@coreui/utils": "^2.0.2",
     "chart.js": "^4.4.6",
-    "simplebar": "^6.2.7"
+    "simplebar": "^6.3.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.25.9",
